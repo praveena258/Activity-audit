@@ -1,5 +1,6 @@
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
-
+## NAME:PRAVEENA D
+# REGISTER NUMBER: 212224040248
 ## Aim
 
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
